@@ -1,0 +1,24 @@
+html, body {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/projects/2/listeasy/bg.png);
+}
+
+#rightMe {
+	text-align:right;
+	font-size:14px;
+	font-weight:bold;
+}
+footer {
+  float: right;
+  }
+#bggrey {
+
+}
+#showMe{
+  border-radius: 25px;
+  background: lightgrey;
+  padding: 10px;
+	text-align:center;
+}
+.lead {
+	margin-top:10px;
+}
